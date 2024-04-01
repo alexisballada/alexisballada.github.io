@@ -1,7 +1,4 @@
-# nsalomonb.github.io
+# alexisballada.github.io
 
-Personal Website at alexisballada.dev
+Personal Website at alexisballada.com
 
-Previously nsalomonb.com (Forwards to new address)
-
-Previously nsalomonb.co [Accessible until 06/01/2020]
